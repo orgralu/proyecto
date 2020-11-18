@@ -1,0 +1,7 @@
+{
+  "name": "parcial2Corte",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
